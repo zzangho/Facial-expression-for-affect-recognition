@@ -4,6 +4,6 @@
   * [Automatic Analysis of Facial Affect: A Survey of Registration, Representation, and Recognition](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6940284), Evangelos Sariyanidi, Hatice Gunes, and Andrea Cavallaro, 2015: Process of Facial expression recognition is divided into Registration, Representation, Dimension Reduction and Recognition. The methods used in each process are investigated.
 
 * Biosignal
-  * [Toward machine emotional intelligence: analysis of affective physiological state](http://ieeexplore.ieee.org/document/954607/), R.W. Picard, E. Vyzas, J. Healey, 2001: most famous early concept for affect recognition using biosignal, using shared statistical features
+  * [Toward machine emotional intelligence: analysis of affective physiological state](http://ieeexplore.ieee.org/document/954607/), R.W. Picard, E. Vyzas, J. Healey, 2001: most famous early concept for affect recognition using biosignal, using shared statistical features
   * [Emotion recognition based on physiological changes in music listening](http://ieeexplore.ieee.org/document/4441720/), Jonghwa Kim, Elisabeth André, 2008: using physiological features for each sensors
   * [Learning deep physiological models of affect](http://ieeexplore.ieee.org/document/6496209/), Hector P. Martinez, Yoshua Bengio, Georgios N. Yannakakis, 2013: using stacked autoencoder, convolutional neural network
