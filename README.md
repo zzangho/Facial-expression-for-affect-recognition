@@ -10,4 +10,4 @@
 
 * Facial Expression
   * [Facial Expression Recognition Using Enhanced Deep 3D Convolutional Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8015016), 2017, Behzad Hasani and Mohammad H. Mahoor: Video data, Combine landmark information into ResNet for image classification
-  * [A principal component analysis of facial expressions](https://www.sciencedirect.com/science/article/pii/S0042698901000025), 2001, Andrew J Caldera, A.Mike Burton, Paul Miller,Andrew W Young, Shigeru Akamatsu
+  * [A principal component analysis of facial expressions](https://www.sciencedirect.com/science/article/pii/S0042698901000025), 2001,  Andrew J Caldera, A.Mike Burton, Paul Miller, Andrew W Young, Shigeru Akamatsu
