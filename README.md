@@ -6,8 +6,11 @@
 * Biosignal
   * [Toward machine emotional intelligence: analysis of affective physiological state](http://ieeexplore.ieee.org/document/954607/), 2001, R.W. Picard, E. Vyzas, J. Healey: most famous early concept for affect recognition using biosignal: using shared statistical features
   * [Emotion recognition based on physiological changes in music listening](http://ieeexplore.ieee.org/document/4441720/), 2008, Jonghwa Kim, Elisabeth André: using physiological features for each sensors
-  * [Learning deep physiological models of affect](http://ieeexplore.ieee.org/document/6496209/), 2013, Hector P. Martinez, Yoshua Bengio, Georgios N. Yannakakis: using stacked autoencoder, convolutional neural network
 
 * Facial Expression
   * [Facial Expression Recognition Using Enhanced Deep 3D Convolutional Neural Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8015016), 2017, Behzad Hasani and Mohammad H. Mahoor: Video data, Combine landmark information into ResNet for image classification
   * [A principal component analysis of facial expressions](https://www.sciencedirect.com/science/article/pii/S0042698901000025), 2001,  Andrew J Caldera, A.Mike Burton, Paul Miller, Andrew W Young, Shigeru Akamatsu
+
+* Biosignal - Deep learning
+  * [Learning deep physiological models of affect](http://ieeexplore.ieee.org/document/6496209/), 2013, Hector P. Martinez, Yoshua Bengio, Georgios N. Yannakakis: using stacked autoencoder, convolutional neural network
+  * [Using deep convolutional neural network for emotion detection on a physiological signals dataset(AMIGOS)](https://ieeexplore.ieee.org/document/8543567), 2018, Luz Santamaria-Granados et al
